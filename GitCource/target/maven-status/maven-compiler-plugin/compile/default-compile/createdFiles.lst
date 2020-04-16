@@ -1,0 +1,5 @@
+com\fresco\springBoot\FrescoApi.class
+com\fresco\springBoot\FrescoCourseController.class
+com\fresco\springBoot\FrescoCourseService.class
+com\fresco\springBoot\Category.class
+springboot\frescoCourses\App.class
