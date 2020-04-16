@@ -31,5 +31,8 @@ public class Category {
 		this.description = description;
 	}
 	
-
+	public int compareTo(Category cat) {
+		 return this.id - cat.id;
+	
+	}
 }
